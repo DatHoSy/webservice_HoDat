@@ -40,7 +40,6 @@ function getDatabyCountry(req, res) {
                 )
             )
         );
-
     res.send(newData);
 }
 
